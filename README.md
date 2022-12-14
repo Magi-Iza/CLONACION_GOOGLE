@@ -1,3 +1,2 @@
 # CLONACION_GOOGLE
 Este proyecto es una práctica relacionada con la clonación de Google, fue creado con HTML y CSS en el bootcamp de Tecnolochicas PRO.
-Clonación sencilla del interfaz de Google, usando HTML y CSS
